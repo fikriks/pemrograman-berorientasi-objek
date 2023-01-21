@@ -10,5 +10,5 @@ Repository ini dibuat khusus untuk history dari pembelajaran dan penugasan Mata 
 Fikri Khairul Shaleh\
 TINFC-2021-02\
 Teknik Informatika - Fakultas Ilmu Komputer\
-Universitas Kuningan
+Universitas Kuningan\
 Semester 2
